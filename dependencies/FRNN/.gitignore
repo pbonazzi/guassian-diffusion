@@ -1,0 +1,11 @@
+build/
+*.so
+*.egg-info/
+.vscode/
+data/mesh/
+all_data/
+**/__pycache__/
+.vscode/
+drill/
+dist/
+data/

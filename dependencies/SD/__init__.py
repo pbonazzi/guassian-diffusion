@@ -1,0 +1,1 @@
+from .pipe_denoising import StableDiffusionImg2ImgDenoisingPipeline
