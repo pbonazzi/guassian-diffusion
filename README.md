@@ -1,6 +1,7 @@
-# Paper Title
+#  Few-shot point cloud reconstruction and denoising via learned Guassian splats renderings and fine-tuned diffusion features  👀
 
-| [Paper](https://igl.ethz.ch/projects/differentiable-surface-splatting/DSS-2019-SA-Yifan-etal.pdf) | [Paper](https://igl.ethz.ch/projects/differentiable-surface-splatting/DSS-2019-SA-Yifan-etal.pdf)
+### [💻 Blog](https://pietrobonazzi.com/projects/splatting) |[📜 Paper](https://arxiv.org/pdf/2404.01112v3) 
+
 
 ## Table of Content 
 
