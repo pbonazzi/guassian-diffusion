@@ -31,7 +31,7 @@ from dependencies.CLIP import clip_utils
 from src.training.clip_encoder import get_embed_fn, resize_img_for_clip
 
 
-auth_token = "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"
+#auth_token = AUTH_TOKEN
 model_id_or_path = "/data/storage/bpietro/huggingface/diffusers/models--runwayml--stable-diffusion-v1-5/snapshots/3beed0bcb34a3d281ce27bd8a6a1efbb68eada38/"
 logger = get_logger(__name__)
 torch.autograd.set_detect_anomaly(True) 
